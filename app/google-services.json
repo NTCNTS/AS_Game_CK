@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130005707406",
+    "firebase_url": "https://tonghop-linh-default-rtdb.firebaseio.com",
+    "project_id": "tonghop-linh",
+    "storage_bucket": "tonghop-linh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130005707406:android:8ee4eb26d4f42c64eaf7df",
+        "android_client_info": {
+          "package_name": "com.example.tonghop_linh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130005707406-j1246rqsunj6pd3t2nnjdrcd6u0pt1qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUO7jtjHdhY7faCMiVszOjehkE7ow7hbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130005707406-j1246rqsunj6pd3t2nnjdrcd6u0pt1qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
